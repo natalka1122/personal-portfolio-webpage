@@ -1,15 +1,13 @@
-.bg-green {
-	background-color: #20CCB2;
-	border-color: #20CCB2;
+.bg-top {
+	background-color: #70867f;
+	border-color: #70867f;
 	border-radius: 0px;
 }
-.bg-robot {
-	background-image: url(images/header-icons.png);
-	background-repeat: no-repeat;
+.bg-portfolio {
+	background-color: #ddebd4;
 }
-.btn-slack {
-	border-radius: 50px;
-	border-color: #0B0B0B;
+.bg-border{
+	background-color: #dea17c;
 }
 body { 
     padding-top: 65px; 
