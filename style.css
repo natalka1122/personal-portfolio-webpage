@@ -9,6 +9,9 @@
 .bg-border{
 	background-color: #dea17c;
 }
+.bg-footer {
+	background-color: #6b7050;
+}
 body { 
     padding-top: 65px; 
 }
